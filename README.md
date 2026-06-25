@@ -1,2 +1,0 @@
-# bullom
-HR solutions 
